@@ -1,0 +1,1 @@
+SELECT * FROM vw_sla_por_cliente;

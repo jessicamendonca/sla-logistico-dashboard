@@ -1,0 +1,301 @@
+order_id,client_id,client_name,segment,order_date,promised_date,delivered_date,status,region,carrier
+1,1,Helibras,Indústria,2025-01-04,2025-01-11,2025-01-11,On time,RJ,Azul Cargo
+2,2,Magazine Luiza,Varejo,2025-04-05,2025-04-07,2025-04-10,Late,SC,Correios
+3,5,Grupo Boticário,Cosméticos,2025-02-24,2025-02-26,2025-02-26,On time,SP,Azul Cargo
+4,2,Magazine Luiza,Varejo,2025-03-06,2025-03-12,2025-03-12,On time,SC,Azul Cargo
+5,5,Grupo Boticário,Cosméticos,2025-02-23,2025-02-26,2025-02-27,Late,SC,Total Express
+6,1,Helibras,Indústria,2025-04-08,2025-04-11,2025-04-14,Late,PR,Total Express
+7,3,Ambev,Bebidas,2025-01-20,2025-01-23,2025-01-23,On time,SP,Correios
+8,4,Nestlé,Alimentos,2025-01-13,2025-01-17,2025-01-17,On time,SC,Total Express
+9,1,Helibras,Indústria,2025-04-04,2025-04-09,2025-04-11,Late,SP,Jadlog
+10,1,Helibras,Indústria,2025-03-12,2025-03-16,2025-03-19,Late,SC,Total Express
+11,5,Grupo Boticário,Cosméticos,2025-01-25,2025-02-01,2025-02-01,On time,SP,Azul Cargo
+12,3,Ambev,Bebidas,2025-01-11,2025-01-14,2025-01-14,On time,PR,Total Express
+13,4,Nestlé,Alimentos,2025-03-23,2025-03-27,2025-03-27,On time,MG,Total Express
+14,2,Magazine Luiza,Varejo,2025-03-27,2025-03-31,2025-04-03,Late,SP,Azul Cargo
+15,5,Grupo Boticário,Cosméticos,2025-04-04,2025-04-07,2025-04-07,On time,PR,Jadlog
+16,3,Ambev,Bebidas,2025-04-29,2025-05-06,2025-05-09,Late,SC,Azul Cargo
+17,3,Ambev,Bebidas,2025-04-18,2025-04-20,2025-04-20,On time,SP,Total Express
+18,4,Nestlé,Alimentos,2025-02-04,2025-02-06,2025-02-06,On time,SC,Total Express
+19,2,Magazine Luiza,Varejo,2025-03-25,2025-03-30,2025-03-31,Late,PR,Azul Cargo
+20,3,Ambev,Bebidas,2025-01-18,2025-01-21,2025-01-24,Late,SC,Total Express
+21,5,Grupo Boticário,Cosméticos,2025-02-24,2025-03-02,2025-03-03,Late,MG,Azul Cargo
+22,2,Magazine Luiza,Varejo,2025-03-07,2025-03-12,2025-03-12,On time,SP,Correios
+23,2,Magazine Luiza,Varejo,2025-03-22,2025-03-25,2025-03-28,Late,PR,Correios
+24,4,Nestlé,Alimentos,2025-02-18,2025-02-24,2025-02-25,Late,SC,Total Express
+25,5,Grupo Boticário,Cosméticos,2025-04-21,2025-04-23,2025-04-26,Late,SP,Total Express
+26,3,Ambev,Bebidas,2025-01-15,2025-01-19,2025-01-20,Late,RJ,Jadlog
+27,1,Helibras,Indústria,2025-04-03,2025-04-10,2025-04-10,On time,SC,Azul Cargo
+28,5,Grupo Boticário,Cosméticos,2025-04-27,2025-04-29,2025-05-02,Late,MG,Azul Cargo
+29,2,Magazine Luiza,Varejo,2025-02-17,2025-02-20,2025-02-22,Late,SC,Correios
+30,5,Grupo Boticário,Cosméticos,2025-02-11,2025-02-16,2025-02-16,On time,SP,Total Express
+31,3,Ambev,Bebidas,2025-01-31,2025-02-02,2025-02-02,On time,SC,Correios
+32,1,Helibras,Indústria,2025-04-04,2025-04-09,2025-04-09,On time,SC,Azul Cargo
+33,2,Magazine Luiza,Varejo,2025-03-26,2025-03-31,2025-04-02,Late,RJ,Total Express
+34,5,Grupo Boticário,Cosméticos,2025-04-22,2025-04-28,2025-04-29,Late,RJ,Azul Cargo
+35,3,Ambev,Bebidas,2025-02-21,2025-02-28,2025-03-03,Late,MG,Jadlog
+36,5,Grupo Boticário,Cosméticos,2025-02-27,2025-03-01,2025-03-01,On time,RJ,Correios
+37,3,Ambev,Bebidas,2025-01-03,2025-01-09,2025-01-11,Late,RJ,Azul Cargo
+38,1,Helibras,Indústria,2025-01-10,2025-01-17,2025-01-20,Late,SP,Azul Cargo
+39,1,Helibras,Indústria,2025-04-26,2025-04-28,2025-04-28,On time,SP,Azul Cargo
+40,3,Ambev,Bebidas,2025-03-27,2025-04-01,2025-04-01,On time,SC,Azul Cargo
+41,5,Grupo Boticário,Cosméticos,2025-03-15,2025-03-20,2025-03-20,On time,PR,Jadlog
+42,2,Magazine Luiza,Varejo,2025-01-13,2025-01-15,2025-01-18,Late,PR,Total Express
+43,4,Nestlé,Alimentos,2025-02-22,2025-02-27,2025-03-02,Late,SP,Correios
+44,1,Helibras,Indústria,2025-02-21,2025-02-28,2025-02-28,On time,SP,Azul Cargo
+45,2,Magazine Luiza,Varejo,2025-01-25,2025-01-31,2025-02-01,Late,RJ,Jadlog
+46,2,Magazine Luiza,Varejo,2025-02-05,2025-02-10,2025-02-10,On time,SP,Jadlog
+47,5,Grupo Boticário,Cosméticos,2025-01-13,2025-01-15,2025-01-18,Late,SC,Correios
+48,1,Helibras,Indústria,2025-04-29,2025-05-02,2025-05-02,On time,PR,Jadlog
+49,4,Nestlé,Alimentos,2025-01-28,2025-02-02,2025-02-02,On time,RJ,Jadlog
+50,1,Helibras,Indústria,2025-02-19,2025-02-23,2025-02-24,Late,MG,Jadlog
+51,5,Grupo Boticário,Cosméticos,2025-03-26,2025-04-02,2025-04-03,Late,RJ,Azul Cargo
+52,3,Ambev,Bebidas,2025-01-28,2025-01-30,2025-02-01,Late,SC,Correios
+53,3,Ambev,Bebidas,2025-01-08,2025-01-10,2025-01-12,Late,PR,Azul Cargo
+54,1,Helibras,Indústria,2025-03-07,2025-03-09,2025-03-09,On time,SP,Correios
+55,2,Magazine Luiza,Varejo,2025-02-21,2025-02-23,2025-02-25,Late,RJ,Correios
+56,5,Grupo Boticário,Cosméticos,2025-01-11,2025-01-16,2025-01-19,Late,SC,Total Express
+57,3,Ambev,Bebidas,2025-01-27,2025-02-03,2025-02-06,Late,MG,Azul Cargo
+58,3,Ambev,Bebidas,2025-02-20,2025-02-23,2025-02-26,Late,MG,Jadlog
+59,3,Ambev,Bebidas,2025-04-29,2025-05-01,2025-05-01,On time,PR,Correios
+60,1,Helibras,Indústria,2025-03-10,2025-03-13,2025-03-15,Late,MG,Azul Cargo
+61,3,Ambev,Bebidas,2025-04-23,2025-04-25,2025-04-25,On time,MG,Total Express
+62,2,Magazine Luiza,Varejo,2025-02-26,2025-03-04,2025-03-07,Late,MG,Correios
+63,5,Grupo Boticário,Cosméticos,2025-02-08,2025-02-15,2025-02-15,On time,RJ,Total Express
+64,1,Helibras,Indústria,2025-04-24,2025-04-26,2025-04-29,Late,SC,Azul Cargo
+65,3,Ambev,Bebidas,2025-02-06,2025-02-12,2025-02-12,On time,MG,Azul Cargo
+66,3,Ambev,Bebidas,2025-03-06,2025-03-11,2025-03-11,On time,SP,Correios
+67,4,Nestlé,Alimentos,2025-04-17,2025-04-21,2025-04-21,On time,SP,Total Express
+68,2,Magazine Luiza,Varejo,2025-03-23,2025-03-27,2025-03-27,On time,PR,Jadlog
+69,5,Grupo Boticário,Cosméticos,2025-01-02,2025-01-04,2025-01-04,On time,RJ,Correios
+70,3,Ambev,Bebidas,2025-03-16,2025-03-22,2025-03-22,On time,PR,Azul Cargo
+71,1,Helibras,Indústria,2025-02-09,2025-02-13,2025-02-13,On time,MG,Azul Cargo
+72,2,Magazine Luiza,Varejo,2025-03-27,2025-03-29,2025-03-29,On time,SC,Jadlog
+73,5,Grupo Boticário,Cosméticos,2025-04-06,2025-04-09,2025-04-09,On time,RJ,Azul Cargo
+74,4,Nestlé,Alimentos,2025-01-04,2025-01-07,2025-01-10,Late,MG,Jadlog
+75,2,Magazine Luiza,Varejo,2025-02-04,2025-02-07,2025-02-10,Late,SP,Jadlog
+76,1,Helibras,Indústria,2025-04-20,2025-04-25,2025-04-25,On time,RJ,Jadlog
+77,3,Ambev,Bebidas,2025-02-09,2025-02-12,2025-02-12,On time,SP,Azul Cargo
+78,4,Nestlé,Alimentos,2025-02-12,2025-02-16,2025-02-16,On time,MG,Total Express
+79,5,Grupo Boticário,Cosméticos,2025-02-21,2025-02-28,2025-03-02,Late,MG,Correios
+80,1,Helibras,Indústria,2025-04-23,2025-04-27,2025-04-27,On time,SC,Total Express
+81,1,Helibras,Indústria,2025-01-14,2025-01-20,2025-01-21,Late,MG,Total Express
+82,4,Nestlé,Alimentos,2025-03-19,2025-03-25,2025-03-25,On time,PR,Azul Cargo
+83,3,Ambev,Bebidas,2025-01-06,2025-01-13,2025-01-14,Late,SP,Azul Cargo
+84,3,Ambev,Bebidas,2025-02-25,2025-02-27,2025-03-02,Late,MG,Total Express
+85,1,Helibras,Indústria,2025-04-03,2025-04-07,2025-04-09,Late,MG,Jadlog
+86,3,Ambev,Bebidas,2025-02-21,2025-02-28,2025-02-28,On time,SC,Azul Cargo
+87,2,Magazine Luiza,Varejo,2025-02-23,2025-03-02,2025-03-03,Late,RJ,Total Express
+88,4,Nestlé,Alimentos,2025-03-12,2025-03-14,2025-03-14,On time,MG,Azul Cargo
+89,4,Nestlé,Alimentos,2025-04-11,2025-04-17,2025-04-19,Late,MG,Jadlog
+90,4,Nestlé,Alimentos,2025-02-26,2025-03-05,2025-03-05,On time,SC,Jadlog
+91,2,Magazine Luiza,Varejo,2025-03-26,2025-03-28,2025-03-28,On time,SC,Total Express
+92,1,Helibras,Indústria,2025-04-15,2025-04-18,2025-04-21,Late,MG,Azul Cargo
+93,2,Magazine Luiza,Varejo,2025-01-19,2025-01-21,2025-01-21,On time,RJ,Jadlog
+94,5,Grupo Boticário,Cosméticos,2025-04-19,2025-04-21,2025-04-22,Late,PR,Azul Cargo
+95,4,Nestlé,Alimentos,2025-03-05,2025-03-10,2025-03-10,On time,RJ,Correios
+96,1,Helibras,Indústria,2025-04-10,2025-04-15,2025-04-15,On time,RJ,Jadlog
+97,1,Helibras,Indústria,2025-03-13,2025-03-16,2025-03-16,On time,PR,Azul Cargo
+98,4,Nestlé,Alimentos,2025-03-27,2025-04-02,2025-04-04,Late,SC,Total Express
+99,4,Nestlé,Alimentos,2025-03-20,2025-03-27,2025-03-29,Late,PR,Jadlog
+100,2,Magazine Luiza,Varejo,2025-04-06,2025-04-11,2025-04-12,Late,MG,Azul Cargo
+101,3,Ambev,Bebidas,2025-04-09,2025-04-15,2025-04-16,Late,RJ,Total Express
+102,4,Nestlé,Alimentos,2025-01-10,2025-01-17,2025-01-17,On time,RJ,Total Express
+103,3,Ambev,Bebidas,2025-02-10,2025-02-16,2025-02-16,On time,RJ,Azul Cargo
+104,2,Magazine Luiza,Varejo,2025-02-19,2025-02-26,2025-02-26,On time,RJ,Correios
+105,4,Nestlé,Alimentos,2025-02-22,2025-02-26,2025-02-28,Late,PR,Jadlog
+106,1,Helibras,Indústria,2025-01-27,2025-02-01,2025-02-02,Late,SC,Correios
+107,5,Grupo Boticário,Cosméticos,2025-02-18,2025-02-23,2025-02-23,On time,MG,Total Express
+108,4,Nestlé,Alimentos,2025-04-20,2025-04-25,2025-04-27,Late,SC,Azul Cargo
+109,4,Nestlé,Alimentos,2025-01-29,2025-02-02,2025-02-03,Late,PR,Correios
+110,4,Nestlé,Alimentos,2025-02-13,2025-02-20,2025-02-23,Late,PR,Azul Cargo
+111,4,Nestlé,Alimentos,2025-04-28,2025-05-01,2025-05-03,Late,SC,Correios
+112,4,Nestlé,Alimentos,2025-03-17,2025-03-23,2025-03-26,Late,SP,Correios
+113,4,Nestlé,Alimentos,2025-01-18,2025-01-23,2025-01-23,On time,SP,Total Express
+114,4,Nestlé,Alimentos,2025-02-11,2025-02-14,2025-02-15,Late,MG,Total Express
+115,4,Nestlé,Alimentos,2025-02-05,2025-02-10,2025-02-10,On time,SP,Jadlog
+116,1,Helibras,Indústria,2025-04-06,2025-04-12,2025-04-12,On time,MG,Azul Cargo
+117,1,Helibras,Indústria,2025-04-10,2025-04-17,2025-04-17,On time,SP,Azul Cargo
+118,2,Magazine Luiza,Varejo,2025-04-18,2025-04-20,2025-04-22,Late,RJ,Azul Cargo
+119,2,Magazine Luiza,Varejo,2025-03-02,2025-03-09,2025-03-09,On time,SC,Azul Cargo
+120,4,Nestlé,Alimentos,2025-03-31,2025-04-04,2025-04-04,On time,RJ,Correios
+121,2,Magazine Luiza,Varejo,2025-02-09,2025-02-11,2025-02-13,Late,SP,Total Express
+122,5,Grupo Boticário,Cosméticos,2025-03-28,2025-04-02,2025-04-03,Late,RJ,Correios
+123,5,Grupo Boticário,Cosméticos,2025-03-30,2025-04-06,2025-04-06,On time,SP,Total Express
+124,5,Grupo Boticário,Cosméticos,2025-04-14,2025-04-16,2025-04-18,Late,SP,Total Express
+125,5,Grupo Boticário,Cosméticos,2025-02-24,2025-03-03,2025-03-03,On time,SP,Total Express
+126,1,Helibras,Indústria,2025-04-19,2025-04-24,2025-04-25,Late,SP,Jadlog
+127,3,Ambev,Bebidas,2025-03-23,2025-03-28,2025-03-31,Late,RJ,Jadlog
+128,2,Magazine Luiza,Varejo,2025-04-04,2025-04-10,2025-04-13,Late,MG,Jadlog
+129,4,Nestlé,Alimentos,2025-02-25,2025-03-04,2025-03-06,Late,MG,Total Express
+130,2,Magazine Luiza,Varejo,2025-04-17,2025-04-19,2025-04-19,On time,PR,Azul Cargo
+131,4,Nestlé,Alimentos,2025-03-14,2025-03-20,2025-03-23,Late,PR,Total Express
+132,1,Helibras,Indústria,2025-03-05,2025-03-09,2025-03-09,On time,PR,Azul Cargo
+133,3,Ambev,Bebidas,2025-04-13,2025-04-17,2025-04-17,On time,MG,Total Express
+134,5,Grupo Boticário,Cosméticos,2025-01-02,2025-01-08,2025-01-08,On time,SP,Azul Cargo
+135,4,Nestlé,Alimentos,2025-03-04,2025-03-10,2025-03-10,On time,PR,Jadlog
+136,4,Nestlé,Alimentos,2025-04-12,2025-04-14,2025-04-14,On time,MG,Azul Cargo
+137,4,Nestlé,Alimentos,2025-03-30,2025-04-02,2025-04-02,On time,SC,Total Express
+138,4,Nestlé,Alimentos,2025-03-12,2025-03-18,2025-03-18,On time,PR,Total Express
+139,3,Ambev,Bebidas,2025-03-31,2025-04-05,2025-04-05,On time,MG,Total Express
+140,2,Magazine Luiza,Varejo,2025-01-16,2025-01-23,2025-01-23,On time,MG,Correios
+141,5,Grupo Boticário,Cosméticos,2025-04-08,2025-04-15,2025-04-15,On time,RJ,Azul Cargo
+142,4,Nestlé,Alimentos,2025-02-05,2025-02-12,2025-02-14,Late,SC,Total Express
+143,1,Helibras,Indústria,2025-04-17,2025-04-20,2025-04-20,On time,RJ,Total Express
+144,2,Magazine Luiza,Varejo,2025-02-08,2025-02-10,2025-02-13,Late,SC,Azul Cargo
+145,3,Ambev,Bebidas,2025-01-06,2025-01-08,2025-01-10,Late,MG,Azul Cargo
+146,4,Nestlé,Alimentos,2025-01-14,2025-01-16,2025-01-18,Late,MG,Jadlog
+147,4,Nestlé,Alimentos,2025-02-26,2025-03-02,2025-03-02,On time,SP,Total Express
+148,4,Nestlé,Alimentos,2025-01-15,2025-01-17,2025-01-18,Late,PR,Correios
+149,5,Grupo Boticário,Cosméticos,2025-03-22,2025-03-29,2025-03-29,On time,RJ,Azul Cargo
+150,5,Grupo Boticário,Cosméticos,2025-02-08,2025-02-10,2025-02-10,On time,SP,Jadlog
+151,5,Grupo Boticário,Cosméticos,2025-03-18,2025-03-24,2025-03-24,On time,SC,Jadlog
+152,4,Nestlé,Alimentos,2025-04-27,2025-05-02,2025-05-02,On time,SC,Jadlog
+153,3,Ambev,Bebidas,2025-03-14,2025-03-20,2025-03-20,On time,SC,Correios
+154,2,Magazine Luiza,Varejo,2025-03-22,2025-03-25,2025-03-25,On time,SP,Azul Cargo
+155,2,Magazine Luiza,Varejo,2025-01-23,2025-01-29,2025-01-29,On time,RJ,Correios
+156,4,Nestlé,Alimentos,2025-02-27,2025-03-06,2025-03-08,Late,PR,Total Express
+157,1,Helibras,Indústria,2025-01-30,2025-02-03,2025-02-06,Late,MG,Jadlog
+158,1,Helibras,Indústria,2025-03-29,2025-04-01,2025-04-01,On time,SC,Azul Cargo
+159,4,Nestlé,Alimentos,2025-01-15,2025-01-21,2025-01-21,On time,RJ,Total Express
+160,2,Magazine Luiza,Varejo,2025-01-10,2025-01-12,2025-01-12,On time,MG,Total Express
+161,4,Nestlé,Alimentos,2025-01-16,2025-01-21,2025-01-24,Late,MG,Jadlog
+162,3,Ambev,Bebidas,2025-03-06,2025-03-12,2025-03-13,Late,PR,Correios
+163,5,Grupo Boticário,Cosméticos,2025-01-06,2025-01-11,2025-01-14,Late,MG,Total Express
+164,1,Helibras,Indústria,2025-01-12,2025-01-15,2025-01-18,Late,SC,Correios
+165,3,Ambev,Bebidas,2025-03-15,2025-03-17,2025-03-17,On time,PR,Jadlog
+166,3,Ambev,Bebidas,2025-01-24,2025-01-30,2025-01-31,Late,PR,Correios
+167,4,Nestlé,Alimentos,2025-02-14,2025-02-19,2025-02-19,On time,MG,Correios
+168,2,Magazine Luiza,Varejo,2025-02-12,2025-02-17,2025-02-20,Late,PR,Total Express
+169,4,Nestlé,Alimentos,2025-04-15,2025-04-21,2025-04-21,On time,PR,Correios
+170,3,Ambev,Bebidas,2025-02-02,2025-02-06,2025-02-06,On time,PR,Correios
+171,5,Grupo Boticário,Cosméticos,2025-03-01,2025-03-06,2025-03-06,On time,RJ,Total Express
+172,5,Grupo Boticário,Cosméticos,2025-04-07,2025-04-12,2025-04-15,Late,PR,Correios
+173,2,Magazine Luiza,Varejo,2025-02-04,2025-02-10,2025-02-10,On time,MG,Jadlog
+174,4,Nestlé,Alimentos,2025-01-16,2025-01-18,2025-01-21,Late,SC,Azul Cargo
+175,2,Magazine Luiza,Varejo,2025-02-09,2025-02-15,2025-02-15,On time,SC,Jadlog
+176,1,Helibras,Indústria,2025-01-29,2025-01-31,2025-02-01,Late,SP,Azul Cargo
+177,4,Nestlé,Alimentos,2025-04-30,2025-05-07,2025-05-07,On time,SC,Total Express
+178,4,Nestlé,Alimentos,2025-04-17,2025-04-22,2025-04-23,Late,RJ,Jadlog
+179,5,Grupo Boticário,Cosméticos,2025-01-19,2025-01-24,2025-01-24,On time,SC,Azul Cargo
+180,1,Helibras,Indústria,2025-02-05,2025-02-10,2025-02-10,On time,SC,Total Express
+181,1,Helibras,Indústria,2025-02-06,2025-02-13,2025-02-13,On time,SC,Jadlog
+182,2,Magazine Luiza,Varejo,2025-02-27,2025-03-05,2025-03-06,Late,MG,Total Express
+183,5,Grupo Boticário,Cosméticos,2025-04-08,2025-04-14,2025-04-15,Late,PR,Total Express
+184,2,Magazine Luiza,Varejo,2025-03-31,2025-04-03,2025-04-05,Late,PR,Azul Cargo
+185,4,Nestlé,Alimentos,2025-01-06,2025-01-10,2025-01-13,Late,PR,Jadlog
+186,4,Nestlé,Alimentos,2025-03-26,2025-04-02,2025-04-02,On time,PR,Correios
+187,2,Magazine Luiza,Varejo,2025-03-06,2025-03-12,2025-03-12,On time,SP,Jadlog
+188,1,Helibras,Indústria,2025-03-09,2025-03-14,2025-03-14,On time,RJ,Jadlog
+189,2,Magazine Luiza,Varejo,2025-01-10,2025-01-15,2025-01-15,On time,MG,Jadlog
+190,1,Helibras,Indústria,2025-04-20,2025-04-24,2025-04-27,Late,SC,Jadlog
+191,3,Ambev,Bebidas,2025-03-22,2025-03-29,2025-03-30,Late,SC,Correios
+192,5,Grupo Boticário,Cosméticos,2025-01-09,2025-01-12,2025-01-15,Late,MG,Azul Cargo
+193,1,Helibras,Indústria,2025-02-25,2025-02-27,2025-03-02,Late,SP,Jadlog
+194,2,Magazine Luiza,Varejo,2025-03-30,2025-04-03,2025-04-03,On time,SP,Total Express
+195,1,Helibras,Indústria,2025-02-07,2025-02-11,2025-02-11,On time,PR,Azul Cargo
+196,2,Magazine Luiza,Varejo,2025-03-09,2025-03-14,2025-03-16,Late,RJ,Azul Cargo
+197,2,Magazine Luiza,Varejo,2025-01-11,2025-01-17,2025-01-18,Late,SC,Azul Cargo
+198,4,Nestlé,Alimentos,2025-04-27,2025-05-03,2025-05-03,On time,RJ,Jadlog
+199,3,Ambev,Bebidas,2025-02-28,2025-03-04,2025-03-07,Late,SP,Jadlog
+200,3,Ambev,Bebidas,2025-03-28,2025-04-03,2025-04-03,On time,SP,Jadlog
+201,3,Ambev,Bebidas,2025-03-17,2025-03-21,2025-03-24,Late,PR,Total Express
+202,4,Nestlé,Alimentos,2025-04-19,2025-04-23,2025-04-23,On time,PR,Jadlog
+203,1,Helibras,Indústria,2025-01-31,2025-02-05,2025-02-07,Late,MG,Total Express
+204,3,Ambev,Bebidas,2025-01-03,2025-01-10,2025-01-11,Late,MG,Correios
+205,5,Grupo Boticário,Cosméticos,2025-04-21,2025-04-28,2025-05-01,Late,SP,Jadlog
+206,3,Ambev,Bebidas,2025-04-10,2025-04-13,2025-04-15,Late,MG,Azul Cargo
+207,2,Magazine Luiza,Varejo,2025-03-21,2025-03-25,2025-03-28,Late,RJ,Correios
+208,1,Helibras,Indústria,2025-02-09,2025-02-14,2025-02-14,On time,SC,Total Express
+209,2,Magazine Luiza,Varejo,2025-01-12,2025-01-16,2025-01-16,On time,PR,Azul Cargo
+210,2,Magazine Luiza,Varejo,2025-01-17,2025-01-23,2025-01-23,On time,SC,Total Express
+211,2,Magazine Luiza,Varejo,2025-02-02,2025-02-07,2025-02-07,On time,MG,Correios
+212,4,Nestlé,Alimentos,2025-01-10,2025-01-13,2025-01-13,On time,PR,Total Express
+213,1,Helibras,Indústria,2025-04-12,2025-04-17,2025-04-17,On time,MG,Correios
+214,4,Nestlé,Alimentos,2025-02-17,2025-02-24,2025-02-27,Late,MG,Jadlog
+215,3,Ambev,Bebidas,2025-01-14,2025-01-21,2025-01-21,On time,PR,Correios
+216,5,Grupo Boticário,Cosméticos,2025-04-24,2025-04-30,2025-04-30,On time,SC,Azul Cargo
+217,1,Helibras,Indústria,2025-03-23,2025-03-28,2025-03-31,Late,MG,Jadlog
+218,1,Helibras,Indústria,2025-01-18,2025-01-20,2025-01-20,On time,MG,Jadlog
+219,1,Helibras,Indústria,2025-01-13,2025-01-16,2025-01-18,Late,RJ,Jadlog
+220,4,Nestlé,Alimentos,2025-02-17,2025-02-24,2025-02-27,Late,SC,Jadlog
+221,5,Grupo Boticário,Cosméticos,2025-04-06,2025-04-13,2025-04-13,On time,PR,Correios
+222,4,Nestlé,Alimentos,2025-03-20,2025-03-25,2025-03-25,On time,SP,Total Express
+223,2,Magazine Luiza,Varejo,2025-02-26,2025-03-03,2025-03-03,On time,MG,Correios
+224,3,Ambev,Bebidas,2025-03-11,2025-03-18,2025-03-18,On time,SP,Jadlog
+225,3,Ambev,Bebidas,2025-01-25,2025-01-27,2025-01-28,Late,SP,Azul Cargo
+226,5,Grupo Boticário,Cosméticos,2025-01-03,2025-01-05,2025-01-05,On time,RJ,Azul Cargo
+227,5,Grupo Boticário,Cosméticos,2025-01-27,2025-01-29,2025-01-31,Late,RJ,Azul Cargo
+228,2,Magazine Luiza,Varejo,2025-02-12,2025-02-15,2025-02-17,Late,SP,Total Express
+229,2,Magazine Luiza,Varejo,2025-01-17,2025-01-23,2025-01-23,On time,RJ,Correios
+230,1,Helibras,Indústria,2025-01-17,2025-01-19,2025-01-19,On time,RJ,Total Express
+231,1,Helibras,Indústria,2025-01-23,2025-01-27,2025-01-27,On time,RJ,Jadlog
+232,5,Grupo Boticário,Cosméticos,2025-01-15,2025-01-22,2025-01-22,On time,PR,Jadlog
+233,3,Ambev,Bebidas,2025-03-07,2025-03-13,2025-03-13,On time,PR,Azul Cargo
+234,5,Grupo Boticário,Cosméticos,2025-01-06,2025-01-13,2025-01-16,Late,SC,Total Express
+235,4,Nestlé,Alimentos,2025-03-24,2025-03-26,2025-03-26,On time,PR,Jadlog
+236,4,Nestlé,Alimentos,2025-03-29,2025-03-31,2025-04-01,Late,PR,Correios
+237,1,Helibras,Indústria,2025-02-11,2025-02-17,2025-02-17,On time,SP,Azul Cargo
+238,3,Ambev,Bebidas,2025-03-21,2025-03-28,2025-03-30,Late,SC,Total Express
+239,4,Nestlé,Alimentos,2025-03-18,2025-03-24,2025-03-24,On time,PR,Jadlog
+240,1,Helibras,Indústria,2025-04-12,2025-04-19,2025-04-19,On time,SC,Azul Cargo
+241,4,Nestlé,Alimentos,2025-02-27,2025-03-02,2025-03-03,Late,MG,Jadlog
+242,4,Nestlé,Alimentos,2025-02-23,2025-03-02,2025-03-02,On time,MG,Jadlog
+243,3,Ambev,Bebidas,2025-03-27,2025-03-31,2025-03-31,On time,RJ,Jadlog
+244,1,Helibras,Indústria,2025-01-12,2025-01-14,2025-01-14,On time,PR,Correios
+245,3,Ambev,Bebidas,2025-04-14,2025-04-17,2025-04-19,Late,SP,Total Express
+246,1,Helibras,Indústria,2025-02-22,2025-02-26,2025-03-01,Late,PR,Correios
+247,3,Ambev,Bebidas,2025-03-18,2025-03-22,2025-03-22,On time,SP,Azul Cargo
+248,2,Magazine Luiza,Varejo,2025-03-26,2025-03-31,2025-03-31,On time,SP,Total Express
+249,5,Grupo Boticário,Cosméticos,2025-02-17,2025-02-19,2025-02-19,On time,SC,Azul Cargo
+250,4,Nestlé,Alimentos,2025-04-19,2025-04-25,2025-04-27,Late,SC,Correios
+251,5,Grupo Boticário,Cosméticos,2025-04-29,2025-05-06,2025-05-09,Late,MG,Correios
+252,2,Magazine Luiza,Varejo,2025-02-04,2025-02-11,2025-02-11,On time,MG,Total Express
+253,1,Helibras,Indústria,2025-01-24,2025-01-27,2025-01-29,Late,PR,Correios
+254,2,Magazine Luiza,Varejo,2025-04-05,2025-04-12,2025-04-12,On time,SP,Azul Cargo
+255,4,Nestlé,Alimentos,2025-02-23,2025-02-28,2025-02-28,On time,RJ,Total Express
+256,3,Ambev,Bebidas,2025-04-03,2025-04-07,2025-04-09,Late,SC,Correios
+257,1,Helibras,Indústria,2025-01-20,2025-01-23,2025-01-25,Late,SP,Correios
+258,3,Ambev,Bebidas,2025-02-26,2025-03-05,2025-03-06,Late,PR,Jadlog
+259,4,Nestlé,Alimentos,2025-02-04,2025-02-07,2025-02-09,Late,SP,Total Express
+260,4,Nestlé,Alimentos,2025-01-15,2025-01-19,2025-01-22,Late,SC,Jadlog
+261,5,Grupo Boticário,Cosméticos,2025-03-27,2025-03-31,2025-03-31,On time,RJ,Jadlog
+262,5,Grupo Boticário,Cosméticos,2025-01-08,2025-01-10,2025-01-10,On time,MG,Azul Cargo
+263,2,Magazine Luiza,Varejo,2025-04-08,2025-04-12,2025-04-12,On time,MG,Correios
+264,1,Helibras,Indústria,2025-03-05,2025-03-12,2025-03-13,Late,RJ,Azul Cargo
+265,4,Nestlé,Alimentos,2025-03-10,2025-03-17,2025-03-17,On time,SC,Total Express
+266,1,Helibras,Indústria,2025-02-20,2025-02-27,2025-02-27,On time,PR,Correios
+267,4,Nestlé,Alimentos,2025-04-28,2025-04-30,2025-04-30,On time,SC,Jadlog
+268,5,Grupo Boticário,Cosméticos,2025-02-21,2025-02-28,2025-03-03,Late,PR,Total Express
+269,1,Helibras,Indústria,2025-02-21,2025-02-23,2025-02-23,On time,RJ,Jadlog
+270,3,Ambev,Bebidas,2025-01-12,2025-01-17,2025-01-17,On time,RJ,Jadlog
+271,5,Grupo Boticário,Cosméticos,2025-02-21,2025-02-27,2025-02-27,On time,PR,Total Express
+272,3,Ambev,Bebidas,2025-01-29,2025-02-02,2025-02-02,On time,SP,Correios
+273,5,Grupo Boticário,Cosméticos,2025-03-07,2025-03-10,2025-03-10,On time,MG,Azul Cargo
+274,2,Magazine Luiza,Varejo,2025-01-14,2025-01-17,2025-01-17,On time,RJ,Azul Cargo
+275,5,Grupo Boticário,Cosméticos,2025-01-20,2025-01-27,2025-01-27,On time,RJ,Jadlog
+276,4,Nestlé,Alimentos,2025-04-07,2025-04-13,2025-04-15,Late,PR,Total Express
+277,3,Ambev,Bebidas,2025-01-20,2025-01-25,2025-01-25,On time,PR,Jadlog
+278,3,Ambev,Bebidas,2025-04-12,2025-04-16,2025-04-18,Late,SP,Total Express
+279,5,Grupo Boticário,Cosméticos,2025-01-10,2025-01-14,2025-01-15,Late,PR,Correios
+280,1,Helibras,Indústria,2025-02-17,2025-02-21,2025-02-21,On time,SP,Jadlog
+281,4,Nestlé,Alimentos,2025-03-16,2025-03-22,2025-03-25,Late,SP,Jadlog
+282,5,Grupo Boticário,Cosméticos,2025-03-25,2025-03-28,2025-03-28,On time,SC,Jadlog
+283,5,Grupo Boticário,Cosméticos,2025-01-20,2025-01-22,2025-01-23,Late,SP,Total Express
+284,1,Helibras,Indústria,2025-03-06,2025-03-13,2025-03-13,On time,SP,Azul Cargo
+285,4,Nestlé,Alimentos,2025-02-26,2025-03-04,2025-03-06,Late,SC,Azul Cargo
+286,3,Ambev,Bebidas,2025-02-17,2025-02-21,2025-02-22,Late,PR,Total Express
+287,5,Grupo Boticário,Cosméticos,2025-01-07,2025-01-14,2025-01-17,Late,MG,Correios
+288,3,Ambev,Bebidas,2025-01-13,2025-01-19,2025-01-22,Late,PR,Total Express
+289,3,Ambev,Bebidas,2025-04-03,2025-04-10,2025-04-12,Late,RJ,Total Express
+290,1,Helibras,Indústria,2025-03-16,2025-03-23,2025-03-23,On time,MG,Total Express
+291,4,Nestlé,Alimentos,2025-01-17,2025-01-23,2025-01-26,Late,SP,Total Express
+292,5,Grupo Boticário,Cosméticos,2025-02-18,2025-02-25,2025-02-25,On time,RJ,Correios
+293,4,Nestlé,Alimentos,2025-03-07,2025-03-11,2025-03-11,On time,MG,Total Express
+294,2,Magazine Luiza,Varejo,2025-01-28,2025-02-01,2025-02-02,Late,RJ,Azul Cargo
+295,2,Magazine Luiza,Varejo,2025-01-20,2025-01-22,2025-01-22,On time,SP,Correios
+296,3,Ambev,Bebidas,2025-04-23,2025-04-29,2025-04-29,On time,SC,Jadlog
+297,2,Magazine Luiza,Varejo,2025-01-21,2025-01-24,2025-01-27,Late,SC,Azul Cargo
+298,4,Nestlé,Alimentos,2025-01-06,2025-01-11,2025-01-11,On time,RJ,Jadlog
+299,5,Grupo Boticário,Cosméticos,2025-02-06,2025-02-13,2025-02-14,Late,RJ,Azul Cargo
+300,3,Ambev,Bebidas,2025-04-14,2025-04-19,2025-04-19,On time,MG,Jadlog
